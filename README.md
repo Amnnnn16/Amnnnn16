@@ -19,6 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amnnnn16&show_icons=true&locale=en" alt="amnnnn16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amnnnn16&" alt="amnnnn16" /></p>
-<div>
- ![Snake animation](https://github.com/Amnnnn16/Amnnnn16/blob/output/github-contribution-grid-snake.svg)
-</div>
+<p align="center">
+  <img src="https://github.com/amnnnn16/amnnnn16/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
